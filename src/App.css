@@ -1,0 +1,37 @@
+.card-header-overlay {
+    max-height: 90vh;
+    object-fit: contain; 
+    color: red;
+}
+.card-header-overlay img {
+    min-height: 100%;
+}
+img {
+    height: 100%;
+}
+.card-property img{
+    height: 300px;
+    width: 100%;
+}
+.property-icons {
+    max-width: 220px;
+}
+.slider {
+    width: 1024px;
+    max-height: 100%;
+    background-color: aqua;
+}
+.carousel-card {
+    height: 300px;
+    width: 60rem;
+    background-color: blue;
+    object-fit: cover;
+}
+.carousel-card img {
+    height: 100%;
+    width: 100%;
+}
+.loading-skeleton {
+    height: 350px;
+    margin: 10px 0;
+}
